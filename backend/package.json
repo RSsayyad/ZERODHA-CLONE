@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "Rehan Sayyad",
   "license": "ISC",
   "description": "",
   "devDependencies": {
